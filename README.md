@@ -3,4 +3,5 @@
 React Native öğrenme aşamasında yapmış olduğum ilk projedir.
 veri kaynağı olarak firebase kullanmaktadır.
 sağ üst kısımda tümünü sil özelliği bulunmakta ve toplam listedeki eleman sayısı yazmaktadır.
+listedeki elemanların solunda bulunan circle iconuna tıklandığında veritabanındaki isChecked alanı güncellenmektedir.
 
